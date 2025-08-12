@@ -14,4 +14,4 @@ This project implements a complete GitOps workflow for deploying an NGINX web ap
 - Kubernetes (k3s) for orchestration
 - Grafana for monitoring
 
-## Architecture
+## Architecture# Test change
