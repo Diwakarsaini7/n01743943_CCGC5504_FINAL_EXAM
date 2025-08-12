@@ -3,7 +3,7 @@ replicaCount: 2
 image:
   repository: diwakar1002/n01743943-nginx-app
   pullPolicy: Always
-  tag: "latest"
+  tag: commit-5fae2d2769fdee0086e628d4cfecdfa5c3cb325d
 
 nameOverride: ""
 fullnameOverride: ""
